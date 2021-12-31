@@ -1,0 +1,22 @@
+body{
+	background-color:lightblue;
+}
+ h1
+ {
+ 	background-color:lightyellow;
+ 	color: red;
+ }
+
+ ol
+ {
+ 	font-family: Arial;
+    list-style-type:ethiopic-abegede;
+    color: palevioletred;
+ }
+
+ ul
+ {
+ 	font-family: Arial;
+    
+    color: green;
+ }
